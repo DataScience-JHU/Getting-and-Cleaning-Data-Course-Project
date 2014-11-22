@@ -7,5 +7,4 @@
 .DS_Store
 
 # Ignore data files
-Dataset.zip
 /UCI HAR Dataset
